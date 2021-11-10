@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xfarya
+- # Hi, I’m @Xfarya 👋 
 - 👀 I’m interested in learning full-stack :)
 - 🌱 I’m currently learning javascript, ruby
 - 💞️ I’m looking to collaborate on any interested creative projects :)
