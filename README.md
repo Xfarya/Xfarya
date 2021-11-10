@@ -1,9 +1,9 @@
 <h1 align="center"> 👋 hi, i’m Farya </h1>
-<h2 align="center">a recent <a href="https://makers.tech/">Makers Academy </a>graduate </h2>
-<h3> 👀 aspiring Junior Developer </h3>
-<h3> 🌱 currently learning: MongoDB-Express-React-Node (MERN)</h3>
-<h3> 💞️ open for collaboration on any interesting project proposals </h3>
-<h3> 📫 reach me here: <a href="mailto:farya.hsn@gmail.com">farya.hsn@gmail.com </a></h3>
+<h3 align="center">a recent <a href="https://makers.tech/">Makers Academy </a>graduate </h3>
+<p> 👀 status: <strong>Job Hunting</strong> </p>
+<p> 🌱 currently learning: MongoDB-Express-React-Node <strong> (MERN)</strong></p>
+<p> 💞️ open for <strong>collaboration</strong> on any interesting project proposals </p>
+<p> 📫 <strong><a href="mailto:farya.hsn@gmail.com">email </a></strong> me or get in touch via <a href="https://www.linkedin.com/in/farya-hussain-a40148bb/"><strong>Linkedin</a></strong></p>
 
 <!---
 Xfarya/Xfarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
