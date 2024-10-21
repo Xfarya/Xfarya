@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 hi, i’m Farya </h1>
-<h3 align="center"> <a href="https://www.kinandcarta.com/en/">Backend Engineer at K+C</a> </h3>
+<h3 align="center"> Studying Deep Learning at Machine Learning Institute </h3>
 <p> 👀 status: <strong> working.. </strong> </p>
 <p> 🌱 currently learning: Node.js<strong> </strong></p>
 <p> 💞️ open for <strong>collaboration</strong> on any interesting project proposals </p>
