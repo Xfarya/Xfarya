@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 hi, i’m Farya </h1>
 <h3 align="center"> Studying Deep Learning at Machine Learning Institute </h3>
-<p> 👀 status: <strong> working.. </strong> </p>
-<p> 🌱 currently learning: Node.js<strong> </strong></p>
+<p> 👀 status: <strong> studying.. </strong> </p>
+<p> 🌱 currently learning: PyTorch <strong> </strong></p>
 <p> 💞️ open for <strong>collaboration</strong> on any interesting project proposals </p>
 <p> 📫 <strong><a href="mailto:farya.hsn@gmail.com">Email </a></strong> me or get in touch via <a href="https://www.linkedin.com/in/farya-hussain-a40148bb/"><strong>Linkedin</a></strong></p>
 
