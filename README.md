@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 hi, i’m Farya </h1>
-<h3 align="center"> Studying Deep Learning at Machine Learning Institute </h3>
+<h3 align="center"> Studying Deep Learning at <a href="https://ml.institute"> Machine Learning Institute </a></h3>
 <p> 👀 status: <strong> studying.. </strong> </p>
 <p> 🌱 currently learning: PyTorch <strong> </strong></p>
 <p> 💞️ open for <strong>collaboration</strong> on any interesting project proposals </p>
